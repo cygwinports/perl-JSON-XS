@@ -1,0 +1,10 @@
+CPAN_AUTHOR=mlehmann
+inherit perl
+
+NAME="perl-JSON-XS"
+VERSION=2.34
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl JSON module"
+DESCRIPTION="This module converts Perl data structures to JSON and vice versa.
+Its primary goal is to be *correct* and its secondary goal is to be *fast*."

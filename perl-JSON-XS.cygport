@@ -2,7 +2,7 @@ CPAN_AUTHOR=mlehmann
 inherit perl
 
 NAME="perl-JSON-XS"
-VERSION=2.34
+VERSION=3.01
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl JSON module"
